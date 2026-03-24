@@ -37,9 +37,9 @@ pagepath/
 
 Над проектом работают 4 человека:
 
-| | Участник | Роль |
+| | Участник | Зона ответственности |
 |-|----------|------|
-| 👤 | [@username](https://github.com/arinakorikova30) | — |
-| 👤 | [@username](https://github.com/vicdenn3) | — |
-| 👤 | [@username](https://github.com/Rinamoroz) | — |
-| 👤 | [@username](https://github.com/dashaavas) | — |
+| 👤 | [@username](https://github.com/arinakorikova30) | Карта локаций |
+| 👤 | [@username](https://github.com/vicdenn3) | Медиатека персонажей + карта связей |
+| 👤 | [@username](https://github.com/Rinamoroz) | Форум |
+| 👤 | [@username](https://github.com/dashaavas) | Энциклопедия + общая архитектура |
